@@ -35,3 +35,5 @@ I started with the design I did in UX Design In class using Figma. For This proj
 - [Project-4](https://rhyt0002.github.io/final-project/)
 - [Instagram](https://www.instagram.com/rhythmsandhu03/)
 - [LinkedIn](https://www.linkedin.com/in/rhythm-a17580299/)
+### Prototype of my Website
+- [Figma](https://www.figma.com/proto/g7M4K14Jlb0BuTCU6i8EUS/Untitled?type=design&t=1AvQR2EBcpaH7vXL-0&scaling=min-zoom&page-id=0%3A1&node-id=1-3&starting-point-node-id=1%3A3)
