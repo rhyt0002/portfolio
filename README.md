@@ -5,8 +5,9 @@ I started with the design I did in Ux Design I class using Figma. for This proje
 
 ### Challenges
 - Using Bootstrap for the first time
-- Using JS Library for scroll
+- Using animated css for the First Time
 - layout issues with the projects page
+- Issues in changing primary color to my own desired colors
 
 ### lesson learned
 - Using Bootstrap Grid effectively
@@ -14,11 +15,26 @@ I started with the design I did in Ux Design I class using Figma. for This proje
 
 ## libraries Used
 - [Bootstrap](https://getbootstrap.com/)
-- [Animateonscroll](https://michalsnik.github.io/aos/)
+- [Animatecss](https://animate.style/)
 
 ## External Resources
-- [Images From Unsplash](https://unsplash.com/)
 - [Roboto google font](https://fonts.google.com/specimen/Roboto)
 
 ## logo
-- [placeholder]()
+- [placeholder](/images/logo.jpg)
+
+## Images
+- All the Images used in the project are my own Which I took form the projects That I created.
+
+## Journey of Development of site
+- Firstly I created a repository in my github account and clone it to my vs code
+- Then I created my three html pages home, about, contact
+- Afterthat I added Images section in which I put My Images That I am going to use
+- Then I create Mockup folder in which I put My Hi-fi and Lo-fi of the website
+- Afterthat I added basic html format to all three page
+- Then I added my header, which I took from Bootstarp and did some changes to it 
+- Afterthat reviewing my hi-fi from UX design, I added all the content and Images to all three pages 
+- For my whole project I used bootstrap 
+- Then I added footer to all three pages in which I basically added footer line and social media icon with their links
+- Finally I added my own css in which I change colors to my own desire and also changed the font 
+- At last I sync all my work to github and Finally I am done with My Project :joy:
